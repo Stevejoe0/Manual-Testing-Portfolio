@@ -107,3 +107,6 @@ The purpose of this Test Plan is to validate the **Ecommerce Web Application** f
 - **Prepared by:** Stephin Joe  
 - **Reviewed by:** Test Lead  
 - **Approved by:** QA Manager  
+
+
+📎 [Download Test Plan (Word Document)](./1_Test_Plan_Ecommerce.docx)
