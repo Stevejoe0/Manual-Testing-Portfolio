@@ -1,0 +1,38 @@
+Manual-Testing-Portfolio/
+│
+├── README.md
+│
+├── Ecommerce-App/
+│   ├── 1_Test_Plan_Ecommerce.docx
+│   ├── 2_Requirements_Ecommerce.xlsx
+│   ├── 3_RTM_Ecommerce.xlsx
+│   ├── 4_Test_Cases_Ecommerce.xlsx
+│   ├── 5_Bug_Reports_Ecommerce.docx
+│   ├── 6_Test_Execution_Report_Ecommerce.docx
+│   └── screenshots/
+│       └── (UI mockups or sample screenshots)
+│
+├── Banking-App/
+│   ├── 1_Test_Plan_Banking.docx
+│   ├── 2_Requirements_Banking.xlsx
+│   ├── 3_RTM_Banking.xlsx
+│   ├── 4_Test_Cases_Banking.xlsx
+│   ├── 5_Bug_Reports_Banking.docx
+│   ├── 6_Test_Execution_Report_Banking.docx
+│   └── screenshots/
+│
+├── Healthcare-App/
+│   ├── 1_Test_Plan_Healthcare.docx
+│   ├── 2_Requirements_Healthcare.xlsx
+│   ├── 3_RTM_Healthcare.xlsx
+│   ├── 4_Test_Cases_Healthcare.xlsx
+│   ├── 5_Bug_Reports_Healthcare.docx
+│   ├── 6_Test_Execution_Report_Healthcare.docx
+│   └── screenshots/
+│
+└── Templates/
+    ├── Test_Plan_Template.docx
+    ├── RTM_Template.xlsx
+    ├── Test_Case_Template.xlsx
+    ├── Bug_Report_Template.docx
+    └── Test_Execution_Report_Template.docx
