@@ -11,7 +11,7 @@ Each application folder contains:
 - ✅ Test Cases (Positive, Negative, Boundary)  
 - ✅ Bug Reports  
 - ✅ Test Execution Report  
-- ✅ Screenshots (sample/mock UI)  
+- ✅ Screenshots (sample/mock UI)  [ Future ]
 
 I have also included a **Templates** folder with reusable documents for Test Plans, RTM, Test Cases, Bug Reports, and Test Execution Reports.  
 
